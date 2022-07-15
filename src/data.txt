@@ -1,0 +1,10 @@
+[{"id":"9723a48e-e7d8-4e7e-8e27-243975ca8d8c","first_name":"Sissy","last_name":"Tafani","place":"Colombia","email":"stafani0@scribd.com","date_of_joining":"10/8/2021","designation":"Project Manager"},
+{"id":"c30f6116-20e3-47ea-a4dc-5b55d7ebd1e6","first_name":"Davon","last_name":"Yokel","place":"China","email":"dyokel1@weebly.com","date_of_joining":"3/8/2022","designation":"Estimator"},
+{"id":"61967d25-12af-422e-938f-a982603af252","first_name":"Kittie","last_name":"Wilden","place":"Russia","email":"kwilden2@issuu.com","date_of_joining":"10/24/2021","designation":"Surveyor"},
+{"id":"a7ae9b29-0e02-4340-835a-1fe63b39e3bb","first_name":"Lynnett","last_name":"Kubec","place":"Indonesia","email":"lkubec3@bluehost.com","date_of_joining":"4/16/2022","designation":"Architect"},
+{"id":"e87dc84c-6478-44ed-807b-f834823614aa","first_name":"Beaufort","last_name":"Dethloff","place":"China","email":"bdethloff4@wix.com","date_of_joining":"8/26/2021","designation":"Construction Manager"},
+{"id":"15b48229-b71e-4c75-9a11-f96a7927cd04","first_name":"Wilfrid","last_name":"Baignard","place":"China","email":"wbaignard5@walmart.com","date_of_joining":"9/28/2021","designation":"Supervisor"},
+{"id":"7494a947-ae61-4878-b501-f136cadc9508","first_name":"Bruno","last_name":"Lantoph","place":"Philippines","email":"blantoph6@ning.com","date_of_joining":"2/25/2021","designation":"Construction Worker"},
+{"id":"a47a305e-1e28-4237-8bbc-58a7c039b11b","first_name":"Rebekkah","last_name":"Gadeaux","place":"United States","email":"rgadeaux7@vistaprint.com","date_of_joining":"3/1/2022","designation":"Project Manager"},
+{"id":"6bdeb0e0-67b8-4449-af68-b9279593e8c0","first_name":"Belinda","last_name":"Martinat","place":"France","email":"bmartinat8@gmpg.org","date_of_joining":"7/2/2021","designation":"Subcontractor"},
+{"id":"c7460750-b39c-436a-8f2d-f3d1ecdfcead","first_name":"Rosella","last_name":"Morefield","place":"Sweden","email":"rmorefield9@biblegateway.com","date_of_joining":"4/23/2021","designation":"Estimator"}]

@@ -1,5 +1,5 @@
 import { Text } from '@medly-components/core';
-import { DashboardIcon } from '@medly-components/icons';
+import { DashboardIcon, BorderAllIcon } from '@medly-components/icons';
 import { MedlySidenavHeader, SideNav as MedlySideNav } from '@medly-components/layout';
 import { WithStyle } from '@medly-components/utils';
 import React, { useCallback } from 'react';
@@ -16,6 +16,10 @@ export const SideNav: React.SFC & WithStyle = React.memo(() => {
                 <MedlySideNav.Nav path="/">
                     <DashboardIcon />
                     <Text>Dashboard</Text>
+                </MedlySideNav.Nav>
+                <MedlySideNav.Nav path="/form">
+                    <BorderAllIcon />
+                    <Text>Form</Text>
                 </MedlySideNav.Nav>
             </MedlySideNav.List>
         </MedlySideNav>
