@@ -1,3 +1,8 @@
+Add data in data.txt file in your local storage. Name it 'data'
+
+
+
+
 # React Redux with Typescript Boilerplate
 
 This boilerplate will help you to quick start your project.
